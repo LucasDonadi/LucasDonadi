@@ -1,8 +1,5 @@
 ### Hello there, I'm Lucas Donadi 👋
 
-<!--
-**LucasDonadi/LucasDonadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🎓 Currently studying Computer Science at Federal Technological University of Paraná (Campo Mourão)
 - 👔 Almost a software developer (JS, Python, C)
 - 📫 Email: lucasdonadi@gmail.com
