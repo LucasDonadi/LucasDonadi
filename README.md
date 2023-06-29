@@ -7,7 +7,7 @@
 ### 🏆 Github Stats:
 <p align="center">
     <a href="https://github.com/LucasDonadi/">
-        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=GuilherveMasco&hide=stars&count_private=true&show_icons=true&theme=midnight-purple" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilherveMasco&count_private=true&hide=smalltalk&theme=midnight-purple&layout=compact" /> 
+        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=LucasDonadi&hide=stars&count_private=true&show_icons=true&theme=midnight-purple" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDonadi&count_private=true&hide=smalltalk&theme=midnight-purple&layout=compact" /> 
     </a>
 </p>
