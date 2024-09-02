@@ -1,7 +1,7 @@
 ### Hello there, I'm Lucas Donadi 👋
 
-- 🎓 Currently studying Computer Science at Federal Technological University of Paraná (Campo Mourão)
-- 👔 Almost a software developer (JS, Python, C)
+- 🎓 Currently studying Computer Science at Federal Technological University of Paraná (Campo Mourão).
+- 👔 Almost a software developer (JS, Python, C).
 - 📫 Email: lucasdonadi@gmail.com
 
 ### 🏆 Github Stats:
